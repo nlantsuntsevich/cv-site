@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: nlantsuntsevich.github.io/sitemap.xml
+Sitemap: https://natasha.today/sitemap.xml
